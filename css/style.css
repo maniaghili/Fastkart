@@ -60,3 +60,29 @@ align-items: center;
     padding-top: 80px;
     margin-left: 80px;
 }
+
+
+.main_top_left_d_off{
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    
+    
+    background-color: rgb(249, 193, 193);
+    border-radius:15px ;
+    -webkit-border-radius:15px ;
+    -moz-border-radius:15px ;
+    -ms-border-radius:15px ;
+    -o-border-radius:15px ;
+}
+
+.fs_b{
+    font-size: 40px;
+}
+
+.Shop_Now{
+    display: inline-block;
+    margin-top: 20px;
+    width: 130px;
+    height: 50px;
+}
