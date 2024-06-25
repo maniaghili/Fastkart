@@ -8,5 +8,39 @@ align-items: center;
 
 .English_border{
     border-right: 1px white solid;
+    margin-right: 10px;
+    padding-right:10px ;
+}
+
+.ul-top{
+    width: 704px;
+   list-style: none;
+   
+}
+
+.header_botom{margin-top: 20px;
+align-items: center;
+}
+
+.h_top{height: 142px;}
+
+.vic-img{
+    display: flex;
+    width: 50px;
+    height: 30px;
+    justify-self: start;
+    border-right: 1px solid rgba(74, 85, 104, 0.5);
+    ;
+}
+
+.vic-img img{
+    width: 24px;
+    height: 24px;
+    padding-right:5px ;
+   
+}
+
+.vic_co{
+    height: 100pxcd;
 }
     
