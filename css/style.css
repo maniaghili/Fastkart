@@ -1,0 +1,12 @@
+.header_top{background: #417394;
+font-size: 14px;
+height: 42px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.English_border{
+    border-right: 1px white solid;
+}
+    
