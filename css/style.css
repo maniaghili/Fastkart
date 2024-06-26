@@ -100,6 +100,7 @@ align-items: center;
 .fastt{
     background-color:rgba(191, 191, 191, 0.2);
     width: 250px !important;
+    height: 80px;
     border-radius: 10px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
@@ -110,4 +111,36 @@ align-items: center;
 .align-items-center{
     align-items: center !important;
    
+}
+
+.main_botom{
+    height: 1807px;
+    
+}
+
+ 
+.main_botom_left{
+
+}
+.main_botom_right{
+   
+    background-color: rgba(248, 248, 248, 1);
+    ;
+z-index: 1;
+}
+
+.main_botom_left_border{
+    width: 30px;
+    opacity: 60%;
+}
+
+.main_botom_left_right{
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-top: 20px;
 }
