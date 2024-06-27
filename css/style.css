@@ -129,11 +129,23 @@ align-items: center;
 }
 
 .main_botom_right{
-    width: 382px;
+    width: 330px;
     height: 587px;
     background-color: rgba(248, 248, 248, 1);
     ;
 
+}
+
+.coli_bottom{
+    background-color: rgba(248, 248, 248, 1);
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .main_botom_left_border{
