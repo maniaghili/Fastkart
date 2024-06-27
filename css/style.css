@@ -120,9 +120,16 @@ align-items: center;
 
  
 .main_botom_left{
+    height:1783px ;
 
 }
+
+.main_botom_left_bottom{
+    margin-top: 40px;
+}
+
 .main_botom_right{
+    width: 382px;
     height: 587px;
     background-color: rgba(248, 248, 248, 1);
     ;
