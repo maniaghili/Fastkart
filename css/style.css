@@ -293,9 +293,14 @@ opacity: 50%;}
 
 .main_botom_right_bottom_tar{
     width: 330px;
-    height: 387px;
+    height: 420px;
     margin-left: -12.5px;
     margin-top: 20px;
     background-color: rgba(248, 248, 248, 1);
     ;
+}
+
+.ss{
+    margin-top: -15px;
+    margin-right: 5px;
 }
