@@ -290,3 +290,12 @@ opacity: 50%;}
 .Restyling_p{
     line-height: 0%;
 }
+
+.main_botom_right_bottom_tar{
+    width: 330px;
+    height: 387px;
+    margin-left: -12.5px;
+    margin-top: 20px;
+    background-color: rgba(248, 248, 248, 1);
+    ;
+}
