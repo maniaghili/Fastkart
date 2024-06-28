@@ -1,3 +1,46 @@
+
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+
+
+
+
+
 .header_top{background: #417394;
 font-size: 14px;
 height: 42px;
@@ -219,10 +262,31 @@ opacity: 50%;}
 
 .off_left{
     height: 162px;
-    width: 200px;
+    width: 475px !important;
     background-image: url('../img/50left.jpg') ;
 }
 
 .off_right{
+    width: 475px !important;
     background-image: url('../img/50right.jpg');
+}
+
+.offer_five{
+    font-size: 29px;
+    color: rgba(255, 179, 33, 1);
+}
+
+.Restyling{
+    color:rgba(65, 115, 148, 1);
+    font-size: 24px;
+}   
+
+.Restyling_y{
+    font-size: 24px;
+    opacity: 80%;
+    color: rgba(65, 115, 148, 1);
+}
+
+.Restyling_p{
+    line-height: 0%;
 }
