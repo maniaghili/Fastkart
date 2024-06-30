@@ -304,3 +304,29 @@ opacity: 50%;}
     margin-top: -15px;
     margin-right: 5px;
 }
+
+.look_book{
+    margin-top: -70px;
+    height: 290px;
+    background-image: url('../img/zar.jpg');
+}
+
+.look_book_child{
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.look_book_child_one{
+    font-style: italic;
+    font-size: 22px;
+    color: rgba(255, 179, 33, 1);
+}
+
+.look_book_child_two{
+    font-size: 44px;
+}
+
+.look_book_child_twoo{
+    font-size: 44px;
+    color: rgb(38, 154, 255);
+}
