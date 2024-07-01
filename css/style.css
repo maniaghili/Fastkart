@@ -341,3 +341,47 @@ opacity: 50%;}
     height:210px ;
     background-image: url('../img/footer_top.jpg');
 }
+
+.footer_top_c{
+    margin-top: 30px !important;
+    margin-left: 250px;
+    line-height: 17px;
+}
+
+.footer_top_one{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.footer-top-two{
+    font-size: 16px;
+    color: rgb(216, 155, 0);
+}
+
+.footer-top-three{
+    width: 500px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+}
+
+.Shop_Noww{
+    opacity: 80%;
+}
+
+.afii::after{
+    
+    content:'';
+    width: 30px;
+    position: absolute;
+    height: 30px;
+    background-color: rgba(65, 115, 148, 1);
+
+}
+
+.afii{
+    position: relative;
+}
+
+.footer-botom{
+    width: 100% !important;
+}
