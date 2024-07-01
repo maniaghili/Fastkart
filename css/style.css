@@ -75,7 +75,8 @@ align-items: center;
 align-items: center;
 }
 
-.h_top{height: 142px;}
+.h_top{height: 142px;
+max-width: fit-content;}
 
 .vic-img{
     display: flex;
