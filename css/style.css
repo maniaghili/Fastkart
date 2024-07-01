@@ -385,3 +385,10 @@ opacity: 50%;}
 .footer-botom{
     width: 100% !important;
 }
+
+.footer_bot{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
