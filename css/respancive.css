@@ -1,11 +1,27 @@
-@media screen and (max-width:1300px) {
+@media screen and (max-width:1400px) {
 .header_top{
     font-size: 12px;
 max-width: 1300px !important;
 }
-.fasttt{
-    margin-top: 50px !important;
+
+.off_left{
+    margin-bottom: 30px;
+}
+
+.off_left_con{
+    text-align: center;
+    justify-content: center;}
+
+.poro_main_img{
+    height: 135px;
+    width: 120px;
+
+
 }
     
 
+}
+
+@media screen and(max-width:1000px) {
+    .fastt{}
 }
