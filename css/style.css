@@ -282,6 +282,10 @@ opacity: 50%;}
     color: rgba(255, 179, 33, 1);
 }
 
+.main_botom_left_border{
+    display: inline-block;
+}
+
 .Restyling{
     color:rgba(65, 115, 148, 1);
     font-size: 24px;

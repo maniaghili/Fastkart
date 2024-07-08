@@ -18,10 +18,17 @@ max-width: 1300px !important;
 
 
 }
+
     
 
 }
 
-@media screen and(max-width:1000px) {
-    .fastt{}
+@media screen and (max-width:1024px) {
+   
+.main_botom_right_bottom{
+        width: 250px !important;
+        margin-left: 0px !important;
+        display: none;
+}
+
 }
