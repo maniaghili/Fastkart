@@ -26,9 +26,38 @@ max-width: 1300px !important;
 @media screen and (max-width:1024px) {
    
 .main_botom_right_bottom{
-        width: 250px !important;
-        margin-left: 0px !important;
-        display: none;
+        width: 230px !important;
+        margin-left: -5px !important;
+        
+}
+
+.main_botom_right_bottom_tar{
+    width: 230px !important;
+    margin-left: -5px !important;
+}
+
+.accont_my{display: none;}
+
+.vic_co{gap: 0.7rem;}
+
+.ul-top{width: 600px;}
+
+.fasttt{margin-top: 60px !important;}
+
+.poro_main_img{
+    height: 100px;
+    width: 90px;
+}
+
+.poro_main_img_m{
+    margin-bottom: 15px;
+}
+
+.ss{font-size: 12px;
+margin-left: 5px;}
+
+.main_botom_right_ul{
+    gap: 1rem;
 }
 
 }
