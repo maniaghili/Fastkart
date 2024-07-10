@@ -92,6 +92,16 @@ margin-left: 5px;}
     width: 100% !important;
 }
 
+.footer_top_c{
+    margin-top: 25px !important;
+    margin-left: 50px;
+    line-height: 12px;
+}
+
+.footer-top-three{
+    max-width: 300px;
+    height: 45px;}
+
 .fasttt{margin-top: 3px !important;}
 
 .h_top{

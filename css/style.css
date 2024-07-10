@@ -392,7 +392,7 @@ opacity: 50%;}
 }
 
 .footer-top-three{
-    width: 500px;
+    max-width: 500px;
     height: 45px;
     background-color: rgb(255, 255, 255);
 }
