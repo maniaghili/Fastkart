@@ -19,8 +19,12 @@ max-width: 1300px !important;
 
 }
 
-    
+.Meatigo{display: none;}
 
+    
+.main_botom_right_ul{
+    gap: 1.4rem;
+}
 }
 
 @media screen and (max-width:1024px) {
@@ -31,9 +35,14 @@ max-width: 1300px !important;
         
 }
 
+
 .main_botom_right_bottom_tar{
     width: 230px !important;
     margin-left: -5px !important;
+}
+
+.main_top{
+    max-width:900px ;
 }
 
 .accont_my{display: none;}
@@ -63,8 +72,30 @@ margin-left: 5px;}
 .look_book{
     margin-top: -90px !important;
 }
+.Meatigo{display: inline-block;}
 }
 
-@media screen and(max-width:768px) {
-    
+@media screen and (max-width:992px) {
+ 
+.on_none{display: none;}
+
+.owr-best{ width: 310px ;
+    height: 335px;
+}
+
+.h_top{
+height: 70px;
+
+}
+
+
+
+.header_botom{
+    justify-content: space-between;
+    margin:20px 20px 0px 20px ;
+}
+}
+
+@media screen and (max-width:768px) {
+    .h_top{display: none;}
 }
