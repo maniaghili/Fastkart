@@ -115,8 +115,44 @@ height: 70px;
     justify-content: space-between;
     margin:20px 20px 0px 20px ;
 }
+.look_book_child{
+    margin-top: 10px;
+    margin-left: 60px;
+line-height: 25px;
+}
+
+.look_book{font-size: 12px;}
+.look_book_child_one{font-size: 14px;}
+
+.look_book_child_two{
+        font-size: 25px;
+    }
+
+.look_book_child_twoo{
+        font-size: 25px;
+    }
 }
 
 @media screen and (max-width:768px) {
-    .h_top{display: none;}
+.h_top{display: none;}
+
+.look_book_child{
+    margin-top: 10px;
+    margin-left: 60px;
+line-height: 25px;
+}
+
+.look_book{font-size: 12px;}
+.look_book_child_one{font-size: 14px;}
+
+.look_book_child_two{
+        font-size: 25px;
+    }
+
+.look_book_child_twoo{
+        font-size: 25px;
+    }
+.owr-best{
+     width: 250px ;
+     height: 350px;}
 }
