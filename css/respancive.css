@@ -83,6 +83,17 @@ margin-left: 5px;}
     height: 335px;
 }
 
+.fasttp{
+    flex-direction: column;
+}
+
+.fastt{
+    padding: 50px;
+    width: 100% !important;
+}
+
+.fasttt{margin-top: 3px !important;}
+
 .h_top{
 height: 70px;
 

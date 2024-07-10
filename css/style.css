@@ -160,6 +160,10 @@ height: 60px;
     height: 50px;
 }
 
+.fasttp{
+    flex-direction: column;
+}
+
 .fastt{
     background-color:rgba(191, 191, 191, 0.2);
     width: 250px !important;
