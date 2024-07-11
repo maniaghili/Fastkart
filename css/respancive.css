@@ -156,3 +156,20 @@ line-height: 25px;
      width: 250px ;
      height: 350px;}
 }
+
+
+
+
+
+@media screen and (max-width:480px) {
+.main_botom_left_right{height: 50px !important;
+background-color: blue;}
+.poro_main_img{
+    width: 50px;
+    height: 50px;
+}
+
+.poro_main_pp{
+    font-size: 10px;
+}
+}
