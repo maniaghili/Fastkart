@@ -85,11 +85,12 @@ margin-left: 5px;}
 
 .fasttp{
     flex-direction: column;
+    align-items: center;
 }
 
 .fastt{
     padding: 50px;
-    width: 100% !important;
+    width: 90% !important;
 }
 
 .footer_top_c{
@@ -171,5 +172,22 @@ background-color: blue;}
 
 .poro_main_pp{
     font-size: 10px;
+}
+
+.top_save_f{
+    font-size: 15px;
+}
+
+.poro_main{
+    height: 200px;
+}
+
+.poro_main_button{
+    width: 23px;
+    height: 23px;}
+
+.par_dis{
+    gap: 10px;
+    
 }
 }
