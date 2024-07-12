@@ -212,6 +212,17 @@ background-color: blue;}
     font-size: 15px;
 }
 
+.footer-botom{
+    display: flex;
+    justify-content: space-between;
+ 
+    flex-wrap: wrap;
+}
+
+.footer-botom_ch{
+    width: 40%;
+}
+
 .poro_main{
     height: 200px;
     max-width: 75px !important;
