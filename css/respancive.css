@@ -214,6 +214,7 @@ background-color: blue;}
 
 .poro_main{
     height: 200px;
+    max-width: 75px !important;
 }
 
 .poro_main_button{
@@ -250,4 +251,30 @@ background-color: blue;}
 }
 
 .footer_top_c{line-height: 20px !important;}
+
+
+.ff_nav{
+
+    margin-right: 30px;
+    
+    
+  
+  }
+
+.poro_mains{
+    display: none;
+}
+
+}
+
+@media screen and (max-width:350px) {
+
+
+.look_book{
+    margin-top: 180p;
+    font-size: 9px;
+}
+.look_book_child{
+    margin-left: 0%;
+}
 }
