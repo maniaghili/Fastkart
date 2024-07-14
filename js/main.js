@@ -1,4 +1,4 @@
-console.log('salaam');
+
 
 let topsave = document.querySelector('.top_save_f') 
 
@@ -9,7 +9,7 @@ let huor = 10
 let timer = setInterval(function(){
 topsave.innerHTML = `Expires in:${huor}:${menete}:${second}`
 second--
-
+ 
 if(second == -1){
     menete--
     second =59
