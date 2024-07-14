@@ -1,5 +1,3 @@
-
-
 let topsave = document.querySelector('.top_save_f') 
 
 let second = 59
