@@ -209,7 +209,8 @@ background-color: blue;}
 }
 
 .top_save_f{
-    font-size: 15px;
+    font-size: 10px !important;
+    font-weight: bold;
 }
 
 .footer-botom{

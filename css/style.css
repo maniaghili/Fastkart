@@ -405,6 +405,11 @@ opacity: 50%;}
     font-weight: bold;
 }
 
+.top_save_f{
+    font-size: 13px !important;
+    font-weight: bold;
+}
+
 .footer-top-two{
     font-size: 16px;
     color: rgb(216, 155, 0);
