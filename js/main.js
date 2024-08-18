@@ -21,3 +21,13 @@ if(menete == -1){
 }, 1000);
 
 
+
+
+
+
+
+const ani = document.querySelector('.ani')
+
+window.addEventListener('load',()=>{
+    ani.style.display = 'none'
+})
