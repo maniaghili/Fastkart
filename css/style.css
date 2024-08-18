@@ -69,6 +69,39 @@ align-items: center;
     align-items: center;
 }
 
+.nav-item{
+    position: relative;
+
+}
+.nav-dropp::after{
+    content: '';
+    height: 2px;
+    position: absolute;
+    background-color: aqua;
+    width: 100%;
+    bottom: 0;
+    
+}
+
+.nav-dropp{
+    background-color: rgb(202, 202, 202);
+    position: absolute;
+    visibility: hidden;
+    width: 200px;
+    height: 150px;
+    
+}
+
+.nav-item:hover .nav-dropp{ visibility: visible; transition: all 1500ms initial; -webkit-transition: all 1500ms initial; -moz-transition: all 1500ms initial; -ms-transition: all 1500ms initial; -o-transition: all 1500ms initial;
+}
+
+
+
+
+
+
+
+
 .ul-top{
     width: 704px;
    list-style: none;
